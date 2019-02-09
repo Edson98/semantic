@@ -9,7 +9,7 @@
       "projectType": "application",
       "prefix": "app",
       "schematics": {},
-      "architect": {
+      "architect": { 
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
@@ -23,7 +23,7 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css" 
             ],
             "scripts": [],
             "es5BrowserSupport": true
